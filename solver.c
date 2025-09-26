@@ -1,3 +1,6 @@
+
+// Temporary change for PR demo
+
 #include "nqueens.h"
 
 bool solve_nqueens_util(int board[], int col, int n) {
